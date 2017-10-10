@@ -1,0 +1,51 @@
+body{
+	margin:0px;
+	font-family:calibri;
+}
+#header{
+	background-color:#5a5c51;
+	height:80px;
+	width:100%;
+}
+#logo{
+	margin:0px;
+	width:30%;
+	float:left;
+}
+#nav{
+	margin:0px;
+	width:70%;
+	float:left;
+}
+#nav ul{
+	list-style:none;
+}
+#nav ul li{
+	float:right;
+	padding:5px;
+	font-family:calibri;
+}
+#body-content{
+	margin:0px;
+	height:570px;
+	background-color:#1d2120;
+}
+#create-account{
+	margin-right:290px;
+	width:40%;
+	float:right;
+}
+#role{
+	text-decoration:grey;
+}
+#field{
+	border-radius:5px;	
+	height:30px;
+	margin:9px;
+	padding:1px;
+}
+#footer{
+	background-color:#5a5c51;
+	height:50px;
+	width:100%;
+}
